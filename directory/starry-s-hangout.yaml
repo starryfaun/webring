@@ -1,0 +1,13 @@
+url: "https://starry-faun.neocities.org"
+name: "Starry's Hangout"
+description: "A personal homepage type site with a celestial theme that displays digital knick-knacks (stamps and the like) as well as a bit of a digital art profile and a blog. "
+owner: "@starry-faun"
+owner_type: "tumblr"
+color: "#121f8b"
+website_categories:
+  - "personal"
+  - "blog"
+  - "art"
+  - ""
+ringlets:
+
